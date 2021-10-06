@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973082410034",
+    "project_id": "mynotes-a3a26",
+    "storage_bucket": "mynotes-a3a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973082410034:android:b8856f5e0c42e7121f502b",
+        "android_client_info": {
+          "package_name": "com.example.mydailytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973082410034-50v1r5kas7putvr6ngao1ekaa4dsrgne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydailytask",
+            "certificate_hash": "a7e0f547da69117de06520d66a67783f01752d6b"
+          }
+        },
+        {
+          "client_id": "973082410034-uijobgo7la0n7rj7e3e5hvont0ti2ib3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwEvh6e96Uei-dw1W9k81_64GC_dgZW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973082410034-uijobgo7la0n7rj7e3e5hvont0ti2ib3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
